@@ -22,7 +22,7 @@ I'm Juju Anselum!
 <h2>👀 Check out my GitHub repository:</h2>
 
 <div style="height: max-content; display: flex; justify-content: center; align-items: start; gap: 10px">
-    <a href="https://github.com/juju-anselum/fisker">
+    <a href="https://github.com/juju-anselum/Fisker">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=juju-anselum&repo=fisker&theme=dark" alt="GitHub Stats" style='height: 100%;'/>
     </a>
     <a href="https://github.com/juju-anselum/Lynix">
