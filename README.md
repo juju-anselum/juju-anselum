@@ -37,7 +37,7 @@ I'm Juju Anselum!
   
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=juju-anselum&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /> <br/><br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=juju-anselum&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /> <br/><br/><br/>
   <b><em>Programming activity (Last 7 days):</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=juju-anselum&theme=dark&hide_border=false" alt="WakaTime" /><br/><br/><br/>
  </p>
