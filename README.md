@@ -1,5 +1,4 @@
-<!-- ![Juju Anselum Banner Image](./banner.png) -->
-<img src="./banner.png" alt="GitHub Stats" style="border-radius: 10px">
+![Juju Anselum Banner Image](./banner.png)
 
 <h1>Hello! 👋</h1>
 
@@ -21,13 +20,15 @@ I'm Juju Anselum!
 
 <h2>👀 Check out my GitHub repository:</h2>
 
-<div style="height: max-content; display: flex; justify-content: center; align-items: start; gap: 10px">
+<div>
+  <p align="center">
     <a href="https://github.com/juju-anselum/Fisker">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=juju-anselum&repo=fisker&theme=dark" alt="GitHub Stats" style='height: 100%;'/>
     </a>
     <a href="https://github.com/juju-anselum/Lynix">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=juju-anselum&repo=lynix&theme=dark" alt="GitHub Stats"/>
     </a>
+    </p>
 </div>
 
 <br/>
