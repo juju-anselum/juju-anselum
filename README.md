@@ -5,6 +5,7 @@
 [![Visitor](https://visitcount.itsvg.in/api?id=juju-anselum&icon=0&color=1&style=social)](https://visitcount.itsv.in)
 [![GitHub followers](https://img.shields.io/github/followers/juju-anselum.svg?style=social&label=Follow)](https://github.com/juju-anselum?tab=followers)
 
+
 I'm Juju Anselum!
 
 - <i>Currently:</i> Bachelor of Engineering in Computer Science
@@ -22,8 +23,8 @@ I'm Juju Anselum!
 
 <div>
   <p align="center">
-    <a href="https://github.com/juju-anselum/Fisker">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=juju-anselum&repo=fisker&theme=dark" alt="GitHub Stats" style='height: 100%;'/>
+    <a href="https://github.com/juju-anselum/Anselum-TidBits.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=juju-anselum&repo=Anselum-TidBits&theme=dark" alt="GitHub Stats" style='height: 100%;'/>
     </a>
     <a href="https://github.com/juju-anselum/Lynix">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=juju-anselum&repo=lynix&theme=dark" alt="GitHub Stats"/>
@@ -50,7 +51,7 @@ I'm Juju Anselum!
 I'm a Computer Science Engineering student from Tamil Nadu, India, currently honing my skills in web development and AI. When I'm not coding, I enjoy designing UI, learning about cars, and exploring new tech trends.
 
 - Check out my Designs: &nbsp;[dribbble.com](https://dribbble.com/Juju_Anselum_J)
-- Know more about me: &nbsp;[linkedin.com](https://www.linkedin.com/in/anselumjuju/)
+- Know more about me: &nbsp;[anselum-tidbits](https://anselum-tidbits.vercel.app/)
 - Write to me: &nbsp;[anselumjuju@gmail.com](mailto:anselumjuju@gmail.com)
 
 <br/>
