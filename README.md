@@ -5,7 +5,6 @@
 [![Visitor](https://visitcount.itsvg.in/api?id=juju-anselum&icon=0&color=1&style=social)](https://visitcount.itsv.in)
 [![GitHub followers](https://img.shields.io/github/followers/juju-anselum.svg?style=social&label=Follow)](https://github.com/juju-anselum?tab=followers)
 
-
 I'm Juju Anselum!
 
 - <i>Currently:</i> Bachelor of Engineering in Computer Science
@@ -28,6 +27,12 @@ I'm Juju Anselum!
     </a>
     <a href="https://github.com/juju-anselum/Lynix">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=juju-anselum&repo=lynix&theme=dark" alt="GitHub Stats"/>
+    </a>
+    <a href="https://github.com/juju-anselum/delikassii">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=juju-anselum&repo=delikassii&theme=dark" alt="GitHub Stats"/>
+    </a>
+    <a href="https://github.com/juju-anselum/Fisker">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=juju-anselum&repo=fisker&theme=dark" alt="GitHub Stats"/>
     </a>
     </p>
 </div>
