@@ -31,8 +31,8 @@ I'm Juju Anselum!
     <a href="https://github.com/juju-anselum/delikassii">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=juju-anselum&repo=delikassii&theme=dark" alt="GitHub Stats"/>
     </a>
-    <a href="https://github.com/juju-anselum/Fisker">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=juju-anselum&repo=fisker&theme=dark" alt="GitHub Stats"/>
+    <a href="https://github.com/juju-anselum/bmw-config">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=juju-anselum&repo=bmw-config&theme=dark" alt="GitHub Stats"/>
     </a>
     </p>
 </div>
