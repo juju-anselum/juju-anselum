@@ -17,7 +17,6 @@ I'm Juju Anselum!
 - 3D Web Development
 
 <br/>
-
 <h2>👀 Check out my GitHub repository:</h2>
 
 <div>
@@ -40,20 +39,17 @@ I'm Juju Anselum!
 <br/>
 <h2>📊 Stats</h2>
 
-<div>
-  
+<div>  
   <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=juju-anselum&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /> <br/><br/><br/>
-  <b><em>Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=juju-anselum&theme=dark&hide_border=false" alt="WakaTime" /><br/><br/><br/>
- </p>
+    <img src="https://github-readme-stats.vercel.app/api?username=juju-anselum&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=juju-anselum&theme=dark&hide_border=false" alt="WakaTime" />
+  </p>
 </div>
 
 <br/>
 <h2> About me⚡:</h2>
 
-I'm a Computer Science Engineering student from Tamil Nadu, India, currently honing my skills in web development and AI. When I'm not coding, I enjoy designing UI, learning about cars, and exploring new tech trends.
+I'm a computer science engineering student from Tamil Nadu, India, and I am currently honing my web development and AI skills. I enjoy designing UI, learning about 3D web development, and exploring new tech trends when I'm not coding.
 
 - Check out my Designs: &nbsp;[dribbble.com](https://dribbble.com/Juju_Anselum_J)
 - Know more about me: &nbsp;[anselum-tidbits](https://anselum-tidbits.vercel.app/)
