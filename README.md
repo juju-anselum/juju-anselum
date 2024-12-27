@@ -17,43 +17,39 @@ I'm Juju Anselum!
 - 3D Web Development
 
 <br/>
-
 <h2>👀 Check out my GitHub repository:</h2>
 
 <div>
-  <p align="center">
-    <a href="https://github.com/juju-anselum/lurmis.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=juju-anselum&repo=lurmis&theme=dark" alt="GitHub Stats" style='height: 100%;'/>
-    </a>
-    <a href="https://github.com/juju-anselum/delikassii">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=juju-anselum&repo=delikassii&theme=dark" alt="GitHub Stats"/>
-    </a>
-    <a href="https://github.com/juju-anselum/Lynix">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=juju-anselum&repo=lynix&theme=dark" alt="GitHub Stats"/>
-    </a>
-    <a href="https://github.com/juju-anselum/Fisker">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=juju-anselum&repo=fisker&theme=dark" alt="GitHub Stats"/>
-    </a>
+    <p align="center">
+      <a href="https://github.com/juju-anselum/juju-anselum.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=juju-anselum&repo=lurmis&theme=dark" alt="GitHub Stats" style='height: 100%;'/>
+      </a>
+      <a href="https://github.com/juju-anselum/delikassii">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=juju-anselum&repo=delikassii&theme=dark" alt="GitHub Stats"/>
+      </a>
+      <a href="https://github.com/juju-anselum/bmw-config">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=juju-anselum&repo=bmw-config&theme=dark" alt="GitHub Stats"/>
+      </a>
+      <a href="https://github.com/juju-anselum/Lynix">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=juju-anselum&repo=lynix&theme=dark" alt="GitHub Stats"/>
+      </a>
     </p>
 </div>
 
 <br/>
 <h2>📊 Stats</h2>
 
-<div>
-  
+<div>  
   <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=juju-anselum&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /> <br/><br/><br/>
-  <b><em>Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=juju-anselum&theme=dark&hide_border=false" alt="WakaTime" /><br/><br/><br/>
- </p>
+    <img src="https://github-readme-stats.vercel.app/api?username=juju-anselum&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=juju-anselum&theme=dark&hide_border=false" alt="WakaTime" />
+  </p>
 </div>
 
 <br/>
 <h2> About me⚡:</h2>
 
-I'm a Computer Science Engineering student from Tamil Nadu, India, currently honing my skills in web development and AI. When I'm not coding, I enjoy designing UI, learning about cars, and exploring new tech trends.
+I'm a computer science engineering student from Tamil Nadu, India, and I am currently honing my web development and AI skills. I enjoy designing UI, learning about 3D web development, and exploring new tech trends when I'm not coding.
 
 - Check out my Designs: &nbsp;[dribbble.com](https://dribbble.com/Juju_Anselum_J)
 - Know more about me: &nbsp;[anselum-tidbits](https://anselum-tidbits.vercel.app/)
