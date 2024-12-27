@@ -22,7 +22,7 @@ I'm Juju Anselum!
 
 <div>
   <p align="center">
-    <a href="https://github.com/juju-anselum/Anselum-TidBits.git">
+    <a href="https://github.com/juju-anselum/lurmis.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=juju-anselum&repo=lurmis&theme=dark" alt="GitHub Stats" style='height: 100%;'/>
     </a>
     <a href="https://github.com/juju-anselum/delikassii">
