@@ -23,13 +23,13 @@ I'm Juju Anselum!
 <div>
   <p align="center">
     <a href="https://github.com/juju-anselum/Anselum-TidBits.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=juju-anselum&repo=Anselum-TidBits&theme=dark" alt="GitHub Stats" style='height: 100%;'/>
-    </a>
-    <a href="https://github.com/juju-anselum/Lynix">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=juju-anselum&repo=lynix&theme=dark" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=juju-anselum&repo=lurmis&theme=dark" alt="GitHub Stats" style='height: 100%;'/>
     </a>
     <a href="https://github.com/juju-anselum/delikassii">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=juju-anselum&repo=delikassii&theme=dark" alt="GitHub Stats"/>
+    </a>
+    <a href="https://github.com/juju-anselum/Lynix">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=juju-anselum&repo=lynix&theme=dark" alt="GitHub Stats"/>
     </a>
     <a href="https://github.com/juju-anselum/Fisker">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=juju-anselum&repo=fisker&theme=dark" alt="GitHub Stats"/>
