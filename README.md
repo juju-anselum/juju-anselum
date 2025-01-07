@@ -60,4 +60,5 @@ I'm a computer science engineering student from Tamil Nadu, India, and I am curr
 
 <a href="mailto:anselumjuju@gmail.com">![mailto:anselumjuju@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> &nbsp;
 <a href="https://www.linkedin.com/in/anselumjuju/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> &nbsp;
+<a href="https://leetcode.com/u/anselumjuju/">![LeetCode](https://img.shields.io/badge/-LeetCode-cc8011?style=for-the-badge&logo=LeetCode&logoColor=black)</a>
 <a href="https://discord.com/users/1092843740227436544">![Discord](https://img.shields.io/badge/discord-0077B5?style=for-the-badge&logo=discord&logoColor=white)</a>
