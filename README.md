@@ -15,7 +15,7 @@
 <!-- About me -->
 <p>I’m a creative developer, turning user imaginations into real products 🌟. From building interactive 3D websites 🌐 to crafting seamless web applications 💻, I love exploring new technologies 🔍 and leveraging them to create innovative, engaging experiences 🚀. I thrive on pushing boundaries, experimenting with fresh ideas 💭, and bringing concepts to life in the digital world 🌍.</p>
 
-#### A Creative Developer by day ☼ and an Algorithm Slayer by night ☾
+A _**Creative Developer**_ by day ☼ and an _**Algorithm Slayer**_ by night ☾
 
 ### About Me 😎
 
