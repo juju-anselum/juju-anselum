@@ -9,6 +9,9 @@ Full-Time student at **_[Francis Xavier](https://www.francisxavier.ac.in/)_**
 - 🚀 Recent works: _[Lurmis](https://lurmis.vercel.app/)_, _[BMW Config](https://bmw-config.vercel.app/)_, _[Delikassii](https://delikassii.vercel.app/)_
 - 💬 `ping` me about **creative development**, **ui/ux design**, **DSA in Java**!
 
-![snake_gif](https://github.com/anselumjuju/anselumjuju/blob/output/github-snake.svg)
+![snake_gif](https://github.com/anselumjuju/anselumjuju/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake_gif](https://github.com/anselumjuju/anselumjuju/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![](https://komarev.com/ghpvc/?username=anselumjuju&base=1240)
 
 <!-- [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=anselumjuju)](https://git.io/streak-stats) -->
