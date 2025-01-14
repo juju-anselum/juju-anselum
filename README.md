@@ -34,7 +34,6 @@ Full-Time student **_[Francis Xavier College](https://www.francisxavier.ac.in/)_
 <img src="https://github.com/user-attachments/assets/680ea7be-fa91-4c15-a2be-9eef65f84dd4" alt="Figma" height="36px"/> &nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/456f3f12-f4bd-4603-b7a5-e88d50c188e4" alt="Firebase" height="36px"/> &nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/96b3e434-5e9a-4095-88ef-6a7f38287113" alt="Git" height="36px"/> &nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/99589ed1-1b85-4def-9a82-778f898afd54" alt="Github" height="36px"/> &nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/c60a4f75-1c67-4d98-a145-ec0c5d8c6798" alt="Java" height="36px"/> &nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/44a3d875-ab9f-48e5-8db9-5342aa5e9c83" alt="JS" height="36px"/> &nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/1b16e887-e3a4-4de9-b83a-31289ef6c4b7" alt="Nextjs" height="36px"/> &nbsp;&nbsp;
