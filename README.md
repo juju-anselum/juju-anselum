@@ -13,7 +13,7 @@
 <a href=""><img src="https://github.com/user-attachments/assets/cd242eda-07b5-4dc1-99fa-6f36a9ebeb67" alt="X" height="24px"/></a>
 
 <!-- About me -->
-<p>I’m a creative developer, turning user imaginations into real products 🌟. From building interactive 3D websites 🌐 to crafting seamless web applications 💻, I love exploring new technologies 🔍 and leveraging them to create innovative, engaging experiences 🚀. I thrive on pushing boundaries, experimenting with fresh ideas 💭, and bringing concepts to life in the digital world 🌍.</p>
+<p>I’m a creative developer, turning clients imaginations into real products 🌟. From building interactive 3D websites 🌐 to crafting seamless web applications 💻, I love exploring new technologies 🔍 and leveraging them to create innovative, engaging experiences 🚀. I thrive on pushing boundaries, experimenting with fresh ideas 💭, and bringing concepts to life in the digital world 🌍.</p>
 
 A _**Creative Developer**_ by day ☼ and an _**Algorithm Slayer**_ by night ☾
 
@@ -21,7 +21,7 @@ A _**Creative Developer**_ by day ☼ and an _**Algorithm Slayer**_ by night ☾
 
 Full-Time student **_[Francis Xavier College](https://www.francisxavier.ac.in/)_**
 
-- ⚙️ I use daily: `.js`, `.ts`, `.jsx`, `.tsx`, `.css`, `.svg`
+- ⚙️ I use daily: `.js`, `.ts`, `.jsx`, `.tsx`, `.css`, `.svg`, `.gltf`, `.blend`
 - 🌍 Building interactive web experiences with **ReactJS**, **NextJS**, **Gsap**, and **TailwindCSS** ecosystems
 - 🚀 Recent works: _[Lurmis](https://lurmis.vercel.app/)_,&nbsp; _[BMW Config](https://bmw-config.vercel.app/)_,&nbsp; _[Delikassii](https://delikassii.vercel.app/)_
 - 💬 `ping` me about **_creative development_**, **_ui/ux design_**!
