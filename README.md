@@ -3,7 +3,7 @@
 ![](https://github.com/anselumjuju/anselumjuju/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://github.com/anselumjuju/anselumjuju/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-![Profile Views](https://komarev.com/ghpvc/?username=anselumjuju&base=1240)
+![Profile Views](https://komarev.com/ghpvc/?username=anselumjuju&base=1000)
 
 <!-- Social Links -->
 
