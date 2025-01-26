@@ -8,7 +8,7 @@
 <!-- Social Links -->
 
 <a href="https://www.linkedin.com/in/anselumjuju/"><img src="https://github.com/user-attachments/assets/4f984458-84b9-4200-ba42-e72b01267abb" alt="Linkedin" height="24px"/></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/b7fa4f49-9822-432a-aca6-d6cc22a73de1" alt="Website" height="24px"/></a> &nbsp;
+<a href="https://anselumjuju.vercel.app/"><img src="https://github.com/user-attachments/assets/b7fa4f49-9822-432a-aca6-d6cc22a73de1" alt="Website" height="24px"/></a> &nbsp;
 <a href="mailto:anselumjuju@gmail.com"><img src="https://github.com/user-attachments/assets/b1b95dca-e0fd-4670-8e2a-e3cc56123f75" alt="Gmail" height="24px"/></a> &nbsp;
 <a href="https://x.com/anselumjuju"><img src="https://github.com/user-attachments/assets/cd242eda-07b5-4dc1-99fa-6f36a9ebeb67" alt="X" height="24px"/></a>
 
